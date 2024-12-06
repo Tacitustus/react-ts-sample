@@ -1,7 +1,6 @@
 // import React from "react";
 // import logo from "./logo.svg";
 import "./App.css";
-import { Button } from "./atom/Button";
 
 // function App() {
 //   return (
@@ -25,7 +24,7 @@ import { Button } from "./atom/Button";
 // }
 
 const App = () => {
-  return <Button></Button>;
+  return <></>;
 };
 
 export default App;
