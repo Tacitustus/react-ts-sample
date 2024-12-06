@@ -1,6 +1,7 @@
 // import React from "react";
 // import logo from "./logo.svg";
 import "./App.css";
+import { Calendar } from "./molecule/Calendar/Calendar";
 
 // function App() {
 //   return (
@@ -24,7 +25,7 @@ import "./App.css";
 // }
 
 const App = () => {
-  return <></>;
+  return <Calendar />;
 };
 
 export default App;
