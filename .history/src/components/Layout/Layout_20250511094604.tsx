@@ -1,4 +1,4 @@
-import "./Layout.css"; // CSSをインポート
+import "./Layout.css";
 import { LayoutProps } from "./LayoutProps";
 
 export const Layout = (props: LayoutProps) => {

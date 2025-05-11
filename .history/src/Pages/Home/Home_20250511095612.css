@@ -1,0 +1,35 @@
+.home-left {
+  width: 20%;
+  background-color: #f0f0f0;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+.home-center {
+  width: 60%;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.home-right {
+  width: 20%;
+  background-color: #f9f9f9;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-list li {
+  margin-bottom: 0.5em;
+}
+
+.nav-list a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.nav-list a:hover {
+  text-decoration: underline;
+}
